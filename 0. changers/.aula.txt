@@ -1,0 +1,13 @@
+ - manipuladores: 
+
+#include<iomanip>
+
+
+ oct
+ dec
+ hex
+ endl
+ setw(int n)
+ setprecision(int n)
+ setfill(char c)
+ flush
