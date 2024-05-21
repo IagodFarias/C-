@@ -11,3 +11,19 @@
  setprecision(int n)
  setfill(char c)
  flush
+
+
+
+
+ - ponteiros
+
+ int *p;
+
+ int *arr - aponta para o primeiro elemento do array.
+
+    - alocaçao dinâmica
+    
+
+
+-sobrecarga de funções: é possível dar o mesmo nome para funções que tenham tipos diferetes e parâmetros
+diferentes.

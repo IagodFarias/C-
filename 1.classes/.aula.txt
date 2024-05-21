@@ -1,0 +1,21 @@
+
+
+
+class carro{
+public:
+
+std::string marca;
+std::string cor;
+
+
+
+
+
+}
+
+
+int main (){
+
+
+
+}
